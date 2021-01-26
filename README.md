@@ -9,5 +9,6 @@
 
 
 ![](https://github.com/oliveirampo/marinap_portifolio/blob/main/images/chap_1_vic.png)
+
 [J. Chem. Theory Comput., 16, 7525-​7555 (2020).](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00683)
 
