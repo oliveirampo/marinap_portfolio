@@ -1,4 +1,4 @@
-# Marinap_Portifolio
+# Marina's Portifolio
 
 # [Project 1: Search for experimental data in database of organic molecules](https://github.com/oliveirampo/combiff)
 
