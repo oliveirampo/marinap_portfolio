@@ -13,7 +13,7 @@
 [J. Chem. Theory Comput., 16, 7525-​7555 (2020).](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00683)
 
 
-# [Porject 2: Force-field optimization](https://github.com/oliveirampo/opt)
+# [Project 2: Force-field optimization](https://github.com/oliveirampo/opt)
 
 * This project is part of an integrated scheme for the automated refinement of force-field parameters 
 against experimental condensed-phase data,
