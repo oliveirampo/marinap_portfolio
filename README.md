@@ -8,6 +8,8 @@ It covers the following three questions:
   1. What are the distribution of listing prices by neighborhoods?
   2. How does the property type impact listing price on a neighborhood?
   3. How well can we predict listing price?
+  
+ ![](/images/property_type_per_neighborhood.png)
 
 # [Project 2: Search for experimental data in database of organic molecules](https://github.com/oliveirampo/combiff)
 
