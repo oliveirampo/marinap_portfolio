@@ -1,6 +1,15 @@
 # Marina's Portifolio
 
-# [Project 1: Search for experimental data in database of organic molecules](https://github.com/oliveirampo/combiff)
+# [Project 1: Analyzing Airbnb Dataset: The Seattle Case](https://github.com/oliveirampo/airbnb_seatle/blob/main/README.md)
+
+This project analyses the Seattle AirBnb Open Data on Kaggle using python.
+It covers the following three questions:
+
+  1. What are the distribution of listing prices by neighborhoods?
+  2. How does the property type impact listing price on a neighborhood?
+  3. How well can we predict listing price?
+
+# [Project 2: Search for experimental data in database of organic molecules](https://github.com/oliveirampo/combiff)
 
 * Search for identifier (name, InChIKey, CAS registry number) in [Pubchem](https://pubchem.ncbi.nlm.nih.gov/) given smiles strings.
 * Search for themodynamic, dielectric, transport and solvation data of organic molecules in database of experimental data of organic compounds.
@@ -13,7 +22,7 @@
 [J. Chem. Theory Comput., 16, 7525-​7555 (2020).](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00683)
 
 
-# [Project 2: Force-field optimization](https://github.com/oliveirampo/opt)
+# [Project 3: Force-field optimization](https://github.com/oliveirampo/opt)
 
 * This project is part of an integrated scheme for the automated refinement of force-field parameters 
 against experimental condensed-phase data,
