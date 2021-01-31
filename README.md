@@ -1,4 +1,4 @@
-# Marina's Portifolio
+# Marina's Portfolio
 
 # [Project 1: Analyzing Airbnb Dataset: The Seattle Case](https://github.com/oliveirampo/airbnb_seatle/blob/main/README.md)
 
