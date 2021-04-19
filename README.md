@@ -1,6 +1,27 @@
 # Marina's Portfolio
 
-# [Project 1: Analyzing Airbnb Dataset: The Seattle Case](https://github.com/oliveirampo/airbnb_seatle/blob/main/README.md)
+# [Project 5: Recommendations with IBM Watson Studio](https://github.com/oliveirampo/ibm_engine_recommendation)
+
+In this repository the following recommendation systems were applied on a dataset with interactions that users have with articles on the IBM Watson Studio:
+
+* Rank-based recommendations.
+* User-user based collaborative filtering.
+* Matrix factorization.
+* Content-based recommendations (ongoing).
+
+The main results are presented [here](https://oliveirampo.github.io/ibm_engine_recommendation/)
+and the main analyses in the
+[jupyter notebook](https://nbviewer.jupyter.org/github/oliveirampo/ibm_engine_recommendation/blob/main/scr/recommendations_with_IBM.ipynb).
+
+# [Project 4: Disaster Response Pipeline](https://github.com/oliveirampo/disaster_response_pipeline)
+
+This project uses machine learning to categorize messages that were sent during disaster events.
+
+It also contains a webapp where a user can send messages and have them classified.
+
+![](/app/static/images/webapp_screen_shot.png)
+
+# [Project 3: Analyzing Airbnb Dataset: The Seattle Case](https://github.com/oliveirampo/airbnb_seatle/blob/main/README.md)
 
 This project analyses the Seattle AirBnb Open Data on Kaggle using python.
 It covers the following three questions:
@@ -24,7 +45,7 @@ It covers the following three questions:
 [J. Chem. Theory Comput., 16, 7525-​7555 (2020).](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00683)
 
 
-# [Project 3: Force-field optimization](https://github.com/oliveirampo/opt)
+# [Project 1: Force-field optimization](https://github.com/oliveirampo/opt)
 
 * This project is part of an integrated scheme for the automated refinement of force-field parameters 
 against experimental condensed-phase data,
