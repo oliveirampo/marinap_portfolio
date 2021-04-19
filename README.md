@@ -19,7 +19,7 @@ This project uses machine learning to categorize messages that were sent during 
 
 It also contains a webapp where a user can send messages and have them classified.
 
-![](/app/static/images/webapp_screen_shot.png)
+![](/images/webapp_screen_shot.png)
 
 # [Project 3: Analyzing Airbnb Dataset: The Seattle Case](https://github.com/oliveirampo/airbnb_seatle/blob/main/README.md)
 
