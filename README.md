@@ -1,5 +1,20 @@
 # Marina's Portfolio
 
+# [Project 6: [Dog Breed Classification (on construction)](https://github.com/oliveirampo/dog_breed_classification)]
+
+Convolutional Neural Network (CNN) is a powerful tool commonly applied to image analysis that is capable to outperform humans on some computer vision tasks.
+
+Here an image classification pipeline for dog breed is presented.
+
+The steps of this notebook are:
+
+1. Clone the github repository with all the data to Google Drive (an authorization is required).
+2. Visualization of the training set.
+3. Training of CNN model using transfer learning.
+4. Classification of new data.
+
+
+
 # [Project 5: Recommendations with IBM Watson Studio](https://github.com/oliveirampo/ibm_engine_recommendation)
 
 In this repository the following recommendation systems were applied on a dataset with interactions that users have with articles on the IBM Watson Studio:
