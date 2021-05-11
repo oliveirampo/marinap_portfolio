@@ -1,6 +1,6 @@
 # Marina's Portfolio
 
-# [Project 6: [Dog Breed Classification (on construction)](https://github.com/oliveirampo/dog_breed_classification)]
+# [Project 6: Dog Breed Classification (on construction)](https://github.com/oliveirampo/dog_breed_classification)
 
 Convolutional Neural Network (CNN) is a powerful tool commonly applied to image analysis that is capable to outperform humans on some computer vision tasks.
 
